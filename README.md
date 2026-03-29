@@ -76,6 +76,7 @@ This makes the system more efficient and scalable.
 
 
 4. Recommendation Logic
+   
 i.If a title is given → find similar movies based on its description
 
 ii.If a description is given → match with similar movie plots
@@ -100,11 +101,14 @@ Evaluation
 I used Precision@K to evaluate recommendation quality.
 
 It measures how many recommended movies match the genre of the input movie.
+
 Example:
+
 precision_at_k("The Dark Knight", k=5)
 
 
 Limitations
+
 The system does not understand semantic meaning (e.g., synonyms like "car" vs "vehicle")
 
 No personalization (same results for every user)
@@ -125,13 +129,13 @@ Add ranking using ratings and popularity
 
 Tech Stack
 
-Python
+i.Python
 
-Pandas
+ii.Pandas
 
-Scikit-learn
+iii.Scikit-learn
 
-NLTK
+iv.NLTK
 
 
 Setup Instructions
