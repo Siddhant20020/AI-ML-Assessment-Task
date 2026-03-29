@@ -152,6 +152,10 @@ This project demonstrates how a basic NLP pipeline can be used to build a functi
 
 It focuses on simplicity, efficiency, and clarity of implementation.
 
+<img width="980" height="725" alt="Screenshot 2026-03-29 195732" src="https://github.com/user-attachments/assets/b0e778db-c705-43b8-bb7d-95f2e40ee4fb" />
+
+
+
 
 
 
